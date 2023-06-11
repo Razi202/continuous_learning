@@ -1,0 +1,4 @@
+outs:
+- md5: aee874481a6164b1fde2a86634481b8f
+  size: 1831464
+  path: mlops_stream.csv

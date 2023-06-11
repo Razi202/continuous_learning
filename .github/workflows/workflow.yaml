@@ -31,4 +31,4 @@ jobs:
     
     - name: Docker build
       run: |
-        run: docker build -t complete_app .
+        docker build -t complete_app .
